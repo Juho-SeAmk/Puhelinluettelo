@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "kari",
+      "number": "040 50550 50",
+      "id": "_lq1r6J7bA"
+    },
+    {
+      "name": "jyri",
+      "number": "11 23043 33",
+      "id": "IVlq1r6J7bA"
+    },
+    {
+      "name": "Asuintupa juho",
+      "number": "060 504040 44",
+      "id": "AVlq2r4542J7bA"
+    },
+    {
+      "name": "mari",
+      "number": "111 0202 222",
+      "id": "8g0lq243rbn"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
